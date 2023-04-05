@@ -28,7 +28,7 @@ python3 -m pip install -r requirements.txt
 ### Run the program
 You need to first run init_index.py to create the indexes.
 
-Then you can run script.py to use the CLI interface.
+Then you can run script.py to use the CLI.
 ```bash
 python3 script.py 'symptom1;symptom2;...'
 ```
