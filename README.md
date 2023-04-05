@@ -33,7 +33,11 @@ Then you can run script.py to use the CLI interface.
 python3 script.py 'symptom1;symptom2;...'
 ```
 
+![image](https://user-images.githubusercontent.com/96493391/230121818-eeb15b87-4f46-43a2-b45a-092e383d349d.png)
+
+
 You can also run UI.py to use the GUI.
 ```bash
 python3 UI.py
 ```
+![image](https://user-images.githubusercontent.com/96493391/230121852-867c97e0-36d5-42a5-beb2-1e4130f11c26.png)
