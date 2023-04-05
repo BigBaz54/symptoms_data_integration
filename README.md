@@ -12,9 +12,9 @@ Creates, fills and uses full-text indexes from differents sources listed in the 
 
 
 The goal of the project was to create a integrating system using the mediation approach to get, from a list of symptoms:
-	- the drugs that could cause them ALL as side_effects
-	- the drugs that could cure them ALL
-	- the diseases that could cause them ALL
+- the drugs that could cause them ALL as side_effects
+- the drugs that could cure them ALL
+- the diseases that could cause them ALL
 
 
 Since it uses local data sources, the downloading of all the files could take a minute.
