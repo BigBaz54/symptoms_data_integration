@@ -5,7 +5,7 @@ Group members :
 - Louis-Vincent Capelli
 
 ## Context
-Project is available here : https://gitlab.telecomnancy.univ-lorraine.fr/Louis-Vincent.Capelli/gmd_project
+Full project is available here : https://gitlab.telecomnancy.univ-lorraine.fr/Louis-Vincent.Capelli/gmd_project (files were to large for free LFS).
 
 
 Creates, fills and uses full-text indexes from differents sources listed in the 'data' directory using Whoosh python library. 
